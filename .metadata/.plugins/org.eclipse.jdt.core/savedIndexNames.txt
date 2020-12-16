@@ -1,0 +1,12 @@
+INDEX VERSION 1.130+F:\przestrzen robocza\WizardGame\.metadata\.plugins\org.eclipse.jdt.core
+401916118.index
+610900252.index
+3423681909.index
+3112630927.index
+134076654.index
+3812340568.index
+233123672.index
+1182544344.index
+831792244.index
+2536892346.index
+488633772.index

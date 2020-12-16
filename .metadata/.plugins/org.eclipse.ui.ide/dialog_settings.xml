@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\karol\Desktop\GameProgramming-master\GameProgramming-master"/>
+		<item value="C:\Users\karol\Desktop\gameRain-master\gameRain-master"/>
+		<item value="C:\Users\karol\Desktop\cherno_game_programming-master\cherno_game_programming-master\episode58"/>
+		<item value="C:\Users\karol\Desktop\cherno_game_programming-master\cherno_game_programming-master\episode61"/>
+		<item value="C:\Users\karol\Desktop\Cherno-master\Cherno-master\Cherno"/>
+		<item value="F:\przestrzen robocza\WizardGame\Wizard Game"/>
+		<item value="C:\Users\karol\Desktop\New-Beginner-Java-Game-Programming-Src-master\New-Beginner-Java-Game-Programming-Src-master\Episode 31"/>
+		<item value="C:\Users\karol\Desktop\New-Beginner-Java-Game-Programming-Src-master\New-Beginner-Java-Game-Programming-Src-master\Episode 34\TileGame"/>
+		<item value="F:\przestrzen robocza\gra"/>
+	</list>
+	<section name="SaveAsDialogSettings">
+		<item value="525" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="580" key="DIALOG_HEIGHT"/>
+		<item value="228" key="DIALOG_X_ORIGIN"/>
+		<item value="134" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>
